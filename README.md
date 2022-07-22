@@ -62,7 +62,7 @@ Run the following commands:
 
 ```sh
 pip3 install -e "git+https://github.com/QuTech-Delft/qne-adk.git@a125b2d27f1e5fef2822329cf824b18e22e9d00e#egg=qne-adk"
-pip3 install squidasm==0.8.4 --extra-index-url https://pypi.netsquid.org
+pip3 install squidasm==0.9.0 --extra-index-url https://pypi.netsquid.org
 ```
 
 You can verify the QNE ADK installation by running
